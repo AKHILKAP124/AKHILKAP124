@@ -10,7 +10,7 @@
 - 💬 Ask me about **react, express and mongodb**
 
 - 📫 How to reach me **akhilkapur0@gmail.com**
-- 
+  
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilkap124&show_icons=true&locale=en&layout=compact" alt="akhilkap124" /></p>
 
 <h3 align="left">Languages and Tools:</h3>

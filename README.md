@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilkap124&label=Profile%20views&color=0e75b6&style=flat" alt="akhilkap124" /> </p>
 
-- 🔭 I’m currently working on Backend.
+- 🔭 I’m currently working on **Backend**.
 
 - 🌱 I’m currently learning **Express, Mongoose, Mongodb, etc.**
 
